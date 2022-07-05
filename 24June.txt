@@ -1,0 +1,14 @@
+1) State transition diagram
+
+2) Use case testing- End to End testing
+
+3) Bug life cycle
+Bug template
+Bug severity, Priority
+
+
+H/W
+1) Severity, priority examples based excel
+
+2) Bug template fo spicejet application(4)
+

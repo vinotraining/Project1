@@ -1,0 +1,41 @@
+1) What is testing?
+Expected meets actual-> Application works fine
+Expected does not meet actual-> Bug
+
+Requirements
+
+Checking and verifying whether 
+the applications works fine or working as per the requirements.
+
+
+
+Client-> Requirments 
+
+2)Verification- Testing done at the starting stage of application
+Static testing
+Reviews and walkthroughs
+
+3)Validation- Testing the actual product
+Dynamic testing
+Execution of codes, Testing the requiremnts working
+
+
+4)Types of application
+a) Desktop application
+b) Web application
+c) Mobile application
+
+5) Probability of getting an error in application is always high
+
+6) SDLC – Software Development Life Cycle
+
+Water fall model
+
+- Requirement analysis
+- System design
+- Implementation
+- Testing- validation
+- Deployment
+- Maintenance
+
+bgayueee@gmail.com

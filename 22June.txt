@@ -1,0 +1,28 @@
+1) Prototype model
+
+Types of prototype model
+
+Rapid Throwaway prototypes
+Evolutionary prototype
+Incremental prototype
+Extreme prototype
+
+
+2)Spiral model
+
+3)Agile methodology
+
+Sprints- 10 to 15 days
+sprint planning
+Sprint1- completed
+Sprint2- 
+Scrum master
+
+4) 7 Principles of Software Testing
+Testing shows presence of defects
+Exhaustive testing is not possible
+Early testing
+Defect clustering
+Pesticide paradox
+Testing is context dependent
+Absence of errors fallacy
